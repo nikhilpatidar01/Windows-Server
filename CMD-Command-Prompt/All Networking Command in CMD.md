@@ -20,6 +20,10 @@
 **Domain IP Website IP address and Mac address find**
 - **nslookup google.com**
 ---
+
+**GROUP POLICY UPDATE COMMAND IN WINDOWD SERVER **
+- **gpupdate /force**
+---
 **DNS TYPES Recoreds**
 - **nslookup -type=a google.com**
 - **nslookup -type=aaaa google.com**
