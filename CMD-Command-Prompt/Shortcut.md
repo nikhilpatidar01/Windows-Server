@@ -1,5 +1,7 @@
 msconfig - System Settings.
+
 msinfo32 - System Information.
+
 resmon - Resource Monitor.
 main.cpl – Mouse Settings.
 mstsc - Remote Desktop Service.
