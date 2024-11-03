@@ -1,14 +1,13 @@
-Certainly! Here’s a structured outline of the content in English headings, while the body text is in Hindi.
 
-## Backup कैसे करें
+## How to Backup in Window Server.
 
-1. **Control Panel खोलें:**
+1. **Control Panel Open:**
    - स्टार्ट बटन पर क्लिक करें और "Control Panel" खोजें।
    
-2. **System और Security पर जाएं:**
+2. **System and Security पर जाएं:**
    - "System and Security" विकल्प पर क्लिक करें।
 
-3. **Backup और Recovery सेट करें:**
+3. **Backup and Recovery सेट करें:**
    - "Backup and Restore" लिंक पर क्लिक करें।
 
 4. **Backup सेटअप शुरू करें:**
@@ -26,7 +25,7 @@ Certainly! Here’s a structured outline of the content in English headings, whi
 8. **Backup प्रक्रिया पूरी होने की प्रतीक्षा करें:**
    - बैकअप प्रक्रिया पूरी होने तक प्रतीक्षा करें। 
 
-## डेटा को पुनर्स्थापित (Restore) कैसे करें
+## How to Restore Data in Window Server.
 
 1. **Recovery विकल्प खोलें:**
    - कंट्रोल पैनल में वापस जाएं और "System and Security" पर क्लिक करें, फिर "Recovery" लिंक पर क्लिक करें।
