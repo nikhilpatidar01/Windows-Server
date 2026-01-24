@@ -144,11 +144,11 @@
 
 ---
 
-<h4 align="center">🅾️ Created by <a href="https://github.com/nikhilpatidar01" target="_blank">Nikhil Patidar</a></h4>
+<h4 align="center"> Created by <a href="https://github.com/nikhilpatidar01" target="_blank">Nikhil Patidar</a></h4>
 
 ---
 
-📜 [Windows Server Exam Certificate](https://github.com/nikhilpatidar01/Windows-Server/blob/Master/Windows%20Server%20Administrator%20Exam%20Certified.jpg)
+📜 [Windows Server Exam Certificate](https://certs.armourinfosec.com/aicwsa/nikhil-patidar/)
 
 ---
 
